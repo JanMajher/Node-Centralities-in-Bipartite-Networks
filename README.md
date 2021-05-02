@@ -4,6 +4,7 @@ This repository contains source code and data files used in the thesis.
   Data files:
     lineups.xlsx - contains statistics for lineups
     players.xlsx - contains individual statistics for players
+    
   Pyhon files:
     Ranking_NBA_players - python notebook where rankings were obtained
     AEW.py - python script with AEW algorithm
@@ -15,6 +16,7 @@ This repository contains source code and data files used in the thesis.
     ARTISTS_data.csv - dataset with calculated features based on ItemRank and BiRank
                      - used in Artists_Recommendation.ipynb
                      - created in Artists_Data_Preparation.ipynb
+                     
   Pyhon files:
     Artists_Data_Preparation.ipynb - python notebook creates ARTISTS_data.csv 
     Artists_Recommendation.ipynb - python notebook with machine learning workflow for music recommendations
