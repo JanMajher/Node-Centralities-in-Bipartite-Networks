@@ -30,8 +30,8 @@ This repository contains source code and data files used in the thesis.
   ## Pyhon files:
     Artists_Recommendation - python notebook with whole implementation
     BiRank.py - python script with BiRank algorithm
-    ItemRank - python script with ItemRank algorithm
+    ItemRank.py - python script with ItemRank algorithm
 
 # 1. Chapter Bipartite networks
   ## Pyhon files:
-    Additional_code_Chapter_1
+    Additional_code_Chapter_1.ipynb - code used in 1. chapter
